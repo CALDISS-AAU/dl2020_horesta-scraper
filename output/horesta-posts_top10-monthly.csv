@@ -1,0 +1,253 @@
+year_month,tags,count
+2018-04,turisme,1
+2018-06,horesta,2
+2018-06,hotel,3
+2018-06,jura,2
+2018-06,katia k. østergaard,3
+2018-06,politik,3
+2018-06,restaurant,3
+2018-06,turisme,3
+2018-06,økonomi,1
+2018-07,hotel,2
+2018-07,jura,2
+2018-07,katia k. østergaard,1
+2018-07,kirsten munch andersen,3
+2018-07,politik,2
+2018-07,restaurant,2
+2018-07,turisme,4
+2018-08,horesta,2
+2018-08,hotel,1
+2018-08,jura,1
+2018-08,katia k. østergaard,4
+2018-08,kirsten munch andersen,1
+2018-08,politik,3
+2018-08,turisme,3
+2018-09,hotel,1
+2018-09,jura,5
+2018-09,katia k. østergaard,3
+2018-09,kirsten munch andersen,1
+2018-09,politik,7
+2018-09,turisme,5
+2018-10,hotel,4
+2018-10,jura,3
+2018-10,katia k. østergaard,4
+2018-10,kirsten munch andersen,1
+2018-10,politik,2
+2018-10,restaurant,4
+2018-10,turisme,2
+2018-10,økonomi,2
+2018-11,horesta,1
+2018-11,hotel,2
+2018-11,jura,4
+2018-11,katia k. østergaard,3
+2018-11,kirsten munch andersen,2
+2018-11,politik,5
+2018-11,restaurant,4
+2018-11,turisme,3
+2018-11,økonomi,1
+2018-12,hotel,6
+2018-12,jura,3
+2018-12,katia k. østergaard,1
+2018-12,kirsten munch andersen,1
+2018-12,politik,4
+2018-12,restaurant,3
+2018-12,turisme,4
+2019-01,horesta,3
+2019-01,hotel,4
+2019-01,jura,3
+2019-01,katia k. østergaard,3
+2019-01,politik,4
+2019-01,turisme,5
+2019-02,horesta,1
+2019-02,hotel,8
+2019-02,jura,4
+2019-02,katia k. østergaard,2
+2019-02,politik,2
+2019-02,restaurant,2
+2019-02,turisme,4
+2019-02,økonomi,2
+2019-03,hotel,4
+2019-03,jura,4
+2019-03,katia k. østergaard,3
+2019-03,politik,6
+2019-03,restaurant,7
+2019-03,turisme,9
+2019-04,horesta,4
+2019-04,hotel,3
+2019-04,jura,2
+2019-04,katia k. østergaard,1
+2019-04,politik,3
+2019-04,restaurant,1
+2019-04,turisme,3
+2019-04,økonomi,1
+2019-05,hotel,4
+2019-05,jura,3
+2019-05,kirsten munch andersen,1
+2019-05,politik,15
+2019-05,restaurant,4
+2019-05,turisme,8
+2019-06,horesta,1
+2019-06,hotel,6
+2019-06,jura,2
+2019-06,politik,6
+2019-06,restaurant,4
+2019-06,turisme,5
+2019-07,horesta,12
+2019-07,jura,1
+2019-07,katia k. østergaard,3
+2019-07,politik,3
+2019-07,restaurant,4
+2019-07,turisme,6
+2019-07,økonomi,1
+2019-08,hotel,3
+2019-08,jura,3
+2019-08,politik,4
+2019-08,restaurant,6
+2019-08,turisme,7
+2019-08,økonomi,1
+2019-09,hotel,11
+2019-09,jura,1
+2019-09,politik,5
+2019-09,restaurant,6
+2019-09,turisme,4
+2019-09,økonomi,1
+2019-10,hotel,9
+2019-10,jura,4
+2019-10,politik,5
+2019-10,restaurant,6
+2019-10,turisme,6
+2019-10,økonomi,1
+2019-11,horesta,2
+2019-11,hotel,4
+2019-11,jura,1
+2019-11,kirsten munch andersen,1
+2019-11,politik,5
+2019-11,restaurant,5
+2019-11,turisme,1
+2019-12,hotel,4
+2019-12,jura,3
+2019-12,katia k. østergaard,1
+2019-12,politik,7
+2019-12,restaurant,4
+2019-12,turisme,3
+2019-12,økonomi,2
+2020-01,hotel,11
+2020-01,jura,3
+2020-01,politik,7
+2020-01,restaurant,6
+2020-01,turisme,4
+2020-01,økonomi,1
+2020-02,hotel,15
+2020-02,jura,2
+2020-02,katia k. østergaard,1
+2020-02,politik,4
+2020-02,restaurant,11
+2020-02,turisme,3
+2020-02,økonomi,3
+2020-03,horesta,12
+2020-03,hotel,16
+2020-03,jura,4
+2020-03,katia k. østergaard,20
+2020-03,kirsten munch andersen,1
+2020-03,politik,14
+2020-03,restaurant,19
+2020-03,turisme,10
+2020-03,økonomi,14
+2020-04,covid-19,18
+2020-04,horesta,7
+2020-04,hotel,6
+2020-04,jura,2
+2020-04,katia k. østergaard,14
+2020-04,kirsten munch andersen,2
+2020-04,politik,12
+2020-04,restaurant,9
+2020-04,turisme,9
+2020-04,økonomi,9
+2020-05,covid-19,31
+2020-05,horesta,2
+2020-05,hotel,10
+2020-05,jura,2
+2020-05,katia k. østergaard,13
+2020-05,politik,15
+2020-05,restaurant,12
+2020-05,turisme,15
+2020-05,økonomi,16
+2020-06,covid-19,17
+2020-06,horesta,5
+2020-06,hotel,9
+2020-06,jura,1
+2020-06,katia k. østergaard,17
+2020-06,kirsten munch andersen,2
+2020-06,politik,21
+2020-06,restaurant,4
+2020-06,turisme,16
+2020-06,økonomi,3
+2020-07,covid-19,13
+2020-07,horesta,2
+2020-07,hotel,16
+2020-07,jura,1
+2020-07,katia k. østergaard,3
+2020-07,kirsten munch andersen,2
+2020-07,politik,17
+2020-07,restaurant,7
+2020-07,turisme,11
+2020-07,økonomi,6
+2020-08,covid-19,11
+2020-08,horesta,14
+2020-08,hotel,7
+2020-08,jura,5
+2020-08,kirsten munch andersen,7
+2020-08,politik,13
+2020-08,restaurant,4
+2020-08,turisme,9
+2020-08,økonomi,11
+2020-09,covid-19,23
+2020-09,horesta,1
+2020-09,hotel,14
+2020-09,jura,6
+2020-09,katia k. østergaard,2
+2020-09,kirsten munch andersen,6
+2020-09,politik,25
+2020-09,restaurant,15
+2020-09,turisme,2
+2020-09,økonomi,8
+2020-10,covid-19,14
+2020-10,horesta,4
+2020-10,hotel,20
+2020-10,jura,7
+2020-10,kirsten munch andersen,7
+2020-10,politik,20
+2020-10,restaurant,16
+2020-10,turisme,8
+2020-10,økonomi,16
+2020-11,covid-19,12
+2020-11,horesta,7
+2020-11,hotel,15
+2020-11,kirsten munch andersen,12
+2020-11,politik,19
+2020-11,restaurant,17
+2020-11,turisme,9
+2020-11,økonomi,16
+2020-12,covid-19,14
+2020-12,horesta,6
+2020-12,hotel,6
+2020-12,jura,4
+2020-12,kirsten munch andersen,14
+2020-12,politik,21
+2020-12,restaurant,12
+2020-12,turisme,4
+2020-12,økonomi,19
+2021-01,covid-19,6
+2021-01,horesta,10
+2021-01,hotel,4
+2021-01,jura,2
+2021-01,kirsten munch andersen,14
+2021-01,politik,8
+2021-01,restaurant,3
+2021-01,turisme,5
+2021-01,økonomi,7
+2021-02,jura,1
+2021-02,katia k. østergaard,1
+2021-02,kirsten munch andersen,1
+2021-02,politik,2
+2021-02,restaurant,1
