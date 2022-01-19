@@ -26,15 +26,7 @@ import ast
 import spacy
 
 
-# Plotting tools
-import matplotlib.pyplot as plt
-import seaborn as sns
-
-get_ipython().run_line_magic('matplotlib', 'inline')
-sns.set(rc={'figure.figsize':(20,12)})
-
-
-# Gensim
+#Gensim
 import gensim
 import gensim.corpora as corpora
 from gensim.utils import simple_preprocess
@@ -45,7 +37,7 @@ from gensim.corpora import MalletCorpus
 
 nlp = spacy.load("da_core_news_sm", disable=['parser', 'ner'])
 
-data_path = os.path.join('D:/', 'data', 'horesta') # Remember to update
+data_path = os.path.join('/home', 'ubuntu', 'data', 'horesta') # Remember to update
 out_path = os.path.join('..', 'output')
 
 
@@ -137,15 +129,14 @@ for combination in para_combinations:
 coherence_scores = []
 
 for parameters in parameters_combinations:
-    lda_model = gensim.models.LdaModel(corpus = tokens_tfidf, 
+    lda_model = gensim.models.ldamulticore.LdaMulticore(corpus = tokens_tfidf, 
                                            num_topics = parameters.get('num_topics'), 
                                            id2word = id2token, 
                                            chunksize = parameters.get('chunksize'), 
                                            passes = parameters.get('passes'), 
                                            iterations = parameters.get('iterations'), 
                                            random_state = 1332,
-                                           alpha = "auto",
-                                           eta = "auto")
+                                           workers = 14)
     
     coherence_model_lda = CoherenceModel(model=lda_model, corpus=tokens_tfidf, coherence='u_mass')
     coherence_scores.append(coherence_model_lda.get_coherence())
